@@ -4,7 +4,7 @@ A simple chrome extension that enables dark mode on [Bahrain.bh](https://bahrain
 
 Here's what it looks like
 
-![demo]("")
+![demo](https://github.com/HamadAljawder/DarkMode4Bahrain.bh/blob/main/demo.png)
 
 ## Setup
 - Download the .zip file & extract the folder.
