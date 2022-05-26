@@ -1,0 +1,28 @@
+.user img {
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+.nationalPortalLogo {
+  background-color: antiquewhite;
+  border-radius: 10px;
+}
+
+
+.gotop {
+  mix-blend-mode: exclusion;
+}
+
+.section-search {
+  mix-blend-mode: luminosity;
+}
+
+:root {
+  -bs-official-red: #f55666;
+}
+
+img[alt~="bahrain.bh"] {
+  background: antiquewhite;
+  border-radius: 10px;
+  padding: 10px;
+}
