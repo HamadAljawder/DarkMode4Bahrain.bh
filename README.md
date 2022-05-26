@@ -7,7 +7,7 @@ Here's what it looks like
 ![demo](https://github.com/HamadAljawder/DarkMode4Bahrain.bh/blob/main/demo.png)
 
 ## Setup
-- Download the .zip file & extract the folder.
+- [Download the .zip file](https://github.com/HamadAljawder/DarkMode4Bahrain.bh/releases/tag/v0.0.2-alpha) & extract the folder.
 - go to [Chrome Extensions](chrome://extensions/) and enable 'Developer mode' on the top right.
 - Click on 'Load unpacked' on the top left of the screen and choose the 'DarkMode4Bahrain.bh' folder extracted previously.
 - Enable the extension and visit [Bahrain.bh](https://bahrain.bh).
