@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Bahrain.bh Dark Mode",
+  "description": "A simple extension that brings dark mode to Bahrain.bh",
+  "version": "0.0.2",
+  "icons": {
+    "128": "icons/128.png"
+  },
+  "action": {
+    "default_icon": "icons/128.png",
+    "default_title": "Bahrain.bh Dark Mode"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.bahrain.bh/*"
+      ],
+      "run_at": "document_start",
+
+      "all_frames": true,
+      
+      "js": [
+        "js/content.js"
+      ],
+
+      "css": [
+        "css/styles.css"
+      ]
+    }
+  ],
+  "permissions": [
+    "activeTab"
+  ]
+}
